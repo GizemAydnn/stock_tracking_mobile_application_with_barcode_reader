@@ -1,4 +1,4 @@
-# stock_tracking_mobile_application_with_barcode_reader
+# stock tracking mobile application with barcode reader
 
 A new Flutter project.
 
